@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Rodrigo\Documents\UNSa =Lic. Análisis de Sistemas\2do Año\2do Cuatrimestre\PyL\Unidad 1 Piloto\Unidad 1 Practica\Unidad 1\Reproductor JAVA\Reproductor\.metadata\.plugins\org.eclipse.jdt.core
